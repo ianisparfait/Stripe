@@ -34,7 +34,7 @@ class AppController extends AbstractController
 				'line_items'           => [
 					[
 						'price_data' => [
-							'currency'     => 'usd',
+							'currency'     => 'eur',
 							'product_data' => [
 									'name' => 'T-shirt',
 							],
