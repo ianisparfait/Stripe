@@ -1,4 +1,7 @@
 # Stripe
+Stripe API with symfony
+
+--
 
 `git clone ..` the project and following instructions: 
 
